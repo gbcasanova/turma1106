@@ -10,6 +10,9 @@ body {
 h1 {text-align: center; color: #864879;}
 h5 {text-align: center; color: #864879;}
 hr {color: #3F3351;}
+
+a:link {color: white;}
+a:visited {color: white;}
 			
 .center {
 	display: block;
